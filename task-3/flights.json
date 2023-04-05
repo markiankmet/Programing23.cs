@@ -1,0 +1,65 @@
+[
+  {
+    "ID": 1,
+    "DepartureCity": "Lviv",
+    "ArrivalCity": "Madrid",
+    "DepartureDateTime": "2023-03-06 14:00",
+    "ArrivalDateTime": "2023-03-06 16:45",
+    "Airline": "WizzAir",
+    "Price": 355.0
+  },
+  {
+    "ID": 2,
+    "DepartureCity": "Krakiv",
+    "ArrivalCity": "London",
+    "DepartureDateTime": "2023-03-12 12:05",
+    "ArrivalDateTime": "2023-03-12 15:55",
+    "Airline": "LOT",
+    "Price": 215.0
+  },
+  {
+    "ID": 3,
+    "DepartureCity": "Lviv",
+    "ArrivalCity": "Krakiv",
+    "DepartureDateTime": "2023-03-12 10:00",
+    "ArrivalDateTime": "2023-03-12 11:30",
+    "Airline": "WizzAir",
+    "Price": 50.0
+  },
+  {
+    "ID": 4,
+    "DepartureCity": "Krakiv",
+    "ArrivalCity": "Madrid",
+    "DepartureDateTime": "2023-03-13 14:00",
+    "ArrivalDateTime": "2023-03-13 16:45",
+    "Airline": "WizzAir",
+    "Price": 55.0
+  },
+  {
+    "ID": 5,
+    "DepartureCity": "Madrid",
+    "ArrivalCity": "Ternopil",
+    "DepartureDateTime": "2023-03-01 11:00",
+    "ArrivalDateTime": "2023-03-01 16:45",
+    "Airline": "LOT",
+    "Price": 345.0
+  },
+  {
+    "ID": 6,
+    "DepartureCity": "London",
+    "ArrivalCity": "Krakiv",
+    "DepartureDateTime": "2023-03-02 18:00",
+    "ArrivalDateTime": "2023-03-02 20:55",
+    "Airline": "WizzAir",
+    "Price": 125.0
+  },
+  {
+    "ID": 7,
+    "DepartureCity": "Ternopil",
+    "ArrivalCity": "Krakiv",
+    "DepartureDateTime": "2023-03-02 19:00",
+    "ArrivalDateTime": "2023-03-02 21:25",
+    "Airline": "LOT",
+    "Price": 225.0
+  }
+]
