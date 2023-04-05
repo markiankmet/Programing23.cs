@@ -1,0 +1,23 @@
+[
+  {
+    "FirstName": "Petro",
+    "LastName": "Lut",
+    "Email": "petka13@gmail.com",
+    "Password": "Petia213pi",
+    "Role": "Customer"
+  },
+  {
+    "FirstName": "Markiian",
+    "LastName": "Kmet",
+    "Email": "markkmet@gmail.com",
+    "Password": "Marek2018",
+    "Role": "Admin"
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Email": "joedoe@gmail.com",
+    "Password": "John1Doe",
+    "Role": "Manager"
+  }
+]
