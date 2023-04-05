@@ -1,0 +1,59 @@
+{
+  "User": "Markiian Kmet - Admin",
+  "Time": "2023-04-04 14:21",
+  "Action": "View",
+  "Result": "Was viewed 5 items"
+}
+{
+  "User": "Markiian Kmet - Admin",
+  "Time": "2023-04-04 14:21",
+  "Action": "View By ID",
+  "Result": "Item was viewed: 5 Audi R7 BC0043KI 2022-07-02 2021-10-22 34576"
+}
+{
+  "User": "Petro Lut - Customer",
+  "Time": "2023-04-04 14:22",
+  "Action": "View By ID",
+  "Result": "Item was viewed: 3 Opel Astra BC1923KI 2019-11-02 2017-09-05 45198"
+}
+{
+  "User": "Petro Lut - Customer",
+  "Time": "2023-04-04 14:22",
+  "Action": "View",
+  "Result": "Was viewed 5 items"
+}
+{
+  "User": "Petro Lut - Customer",
+  "Time": "2023-04-04 14:23",
+  "Action": "Sort",
+  "Result": "All items was sorted by Model"
+}{
+  "User": "Markiian Kmet - Admin",
+  "Time": "2023-04-04 14:37",
+  "Action": "View",
+  "Result": "Was viewed 5 items"
+}
+{
+  "User": "Markiian Kmet - Admin",
+  "Time": "2023-04-04 14:39",
+  "Action": "Edit",
+  "Result": "Tried to edit field: with invalid data"
+}
+{
+  "User": "Markiian Kmet - Admin",
+  "Time": "2023-04-04 14:40",
+  "Action": "Edit",
+  "Result": "Tried to edit field: with invalid data"
+}
+{
+  "User": "Markiian Kmet - Admin",
+  "Time": "2023-04-04 14:40",
+  "Action": "Edit",
+  "Result": "Edited item: Field: Model, 'Model-X' --> 'Model-S'"
+}
+{
+  "User": "Markiian Kmet - Admin",
+  "Time": "2023-04-04 19:48",
+  "Action": "View By ID",
+  "Result": "Item was viewed: 4 Toyota Land-Cruiser AK5413KK 2022-10-01 2021-04-06 67134"
+}
