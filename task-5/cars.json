@@ -1,0 +1,52 @@
+[
+  {
+    "ID": 3,
+    "Brand": "Opel",
+    "Model": "Astra",
+    "Registration_number": "BC1923KI",
+    "Last_repaired_at": "2019-11-02",
+    "Bought_at": "2017-09-05",
+    "Car_mileage": 45198,
+    "State": "Published"
+  },
+  {
+    "ID": 4,
+    "Brand": "Toyota",
+    "Model": "Land-Cruiser",
+    "Registration_number": "AK5413KK",
+    "Last_repaired_at": "2022-10-01",
+    "Bought_at": "2021-04-06",
+    "Car_mileage": 67134,
+    "State": "Published"
+  },
+  {
+    "ID": 5,
+    "Brand": "Audi",
+    "Model": "R7",
+    "Registration_number": "BC0043KI",
+    "Last_repaired_at": "2022-07-02",
+    "Bought_at": "2021-10-22",
+    "Car_mileage": 34576,
+    "State": "Published"
+  },
+  {
+    "ID": 2,
+    "Brand": "Tesla",
+    "Model": "Model-S",
+    "Registration_number": "BC8608HC",
+    "Last_repaired_at": "2021-10-10",
+    "Bought_at": "2018-10-10",
+    "Car_mileage": 54321,
+    "State": "Draft"
+  },
+  {
+    "ID": 1,
+    "Brand": "BMW",
+    "Model": "M6",
+    "Registration_number": "BC0001OK",
+    "Last_repaired_at": "2018-10-10",
+    "Bought_at": "2017-11-10",
+    "Car_mileage": 21345,
+    "State": "Published"
+  }
+]
