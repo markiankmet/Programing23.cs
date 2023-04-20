@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Animal Farm",
+    "PricePerDay": 180.6,
+    "StartDate": "2022-11-02",
+    "EndDate": "2022-11-06"
+  },
+  {
+    "Name": "City",
+    "PricePerDay": 13.13,
+    "StartDate": "2022-04-13",
+    "EndDate": "2022-04-16"
+  },
+  {
+    "Name": "The Hobbit",
+    "PricePerDay": 50.12,
+    "StartDate": "2020-05-11",
+    "EndDate": "2020-05-13"
+  }
+]
